@@ -1,0 +1,4 @@
+Endanger: Camels, Tigers, Crocodiles, Elephants
+Vulnerable: Giraffes
+Near_threatened: Lions
+Least_concern: Brown bears, Bears, Deers
