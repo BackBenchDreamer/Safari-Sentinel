@@ -5,6 +5,12 @@ YOLOv8-powered AI that swiftly recognizes and classifies animals in videos, mark
 
 AI Safari Sentinel is an innovative project that leverages advanced artificial intelligence for real-time wildlife recognition and conservation. The project utilizes the YOLOv8 (You Only Look Once) framework for precise object detection and classification.
 
+
+![image](https://github.com/BackBenchDreamer/Safari-Sentinel/assets/112080762/ada41454-9d2f-445a-8e73-f3f94e4ec836)
+
+![image](https://github.com/BackBenchDreamer/Safari-Sentinel/assets/112080762/800a000e-487d-48fd-ad51-cafb0581c759)
+
+
 ## Features
 
 - **Real-time Recognition:** Identify and classify animals in videos with bounding box visualization.
