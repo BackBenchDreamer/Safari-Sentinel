@@ -45,7 +45,7 @@ This project is licensed under the [MIT License](LICENSE).
 We extend our heartfelt thanks to the following individuals and organizations who played pivotal roles in the success of AI Safari Sentinel:
 
 - **Mr. Glen Jocher:**
-  - [@glenn-jocher](https://github.com/glenn-jocher)
+  - [glenn-jocher](https://github.com/glenn-jocher)
   - Gratitude for providing the Ultralytics package that contained YOLOv8, significantly accelerating our development time.
 
 - **Team Members:**
