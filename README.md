@@ -49,6 +49,7 @@ We extend our heartfelt thanks to the following individuals and organizations wh
   - Gratitude for providing the Ultralytics package that contained YOLOv8, significantly accelerating our development time.
 
 - **Team Members:**
+  - [Jeyadheep V](https://github.com/Trijal2005) - Team Lead
   - [Trijal R](https://github.com/Trijal2005)
   - [Ajay V](https://github.com/ajayvofficial0)
   - [Utpal Kumar](https://github.com/UtpalKuma-r)
